@@ -1,0 +1,7 @@
+D:\Masters Uni work\Masters_Degree-master\Masters_Degree-master\Software_Development_AssigTwo\AssigTwo\bin\Debug\AssigTwo.exe.config
+D:\Masters Uni work\Masters_Degree-master\Masters_Degree-master\Software_Development_AssigTwo\AssigTwo\bin\Debug\AssigTwo.exe
+D:\Masters Uni work\Masters_Degree-master\Masters_Degree-master\Software_Development_AssigTwo\AssigTwo\bin\Debug\AssigTwo.pdb
+D:\Masters Uni work\Masters_Degree-master\Masters_Degree-master\Software_Development_AssigTwo\AssigTwo\obj\Debug\AssigTwo.csprojAssemblyReference.cache
+D:\Masters Uni work\Masters_Degree-master\Masters_Degree-master\Software_Development_AssigTwo\AssigTwo\obj\Debug\AssigTwo.csproj.CoreCompileInputs.cache
+D:\Masters Uni work\Masters_Degree-master\Masters_Degree-master\Software_Development_AssigTwo\AssigTwo\obj\Debug\AssigTwo.exe
+D:\Masters Uni work\Masters_Degree-master\Masters_Degree-master\Software_Development_AssigTwo\AssigTwo\obj\Debug\AssigTwo.pdb
